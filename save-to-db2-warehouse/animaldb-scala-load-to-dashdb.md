@@ -12,7 +12,7 @@ These are the IBM Bluemix services required to run this tutorial:
 1. [Apache Spark](https://console.bluemix.net/catalog/services/apache-spark)
 2. [Db2 Warehouse on Cloud](https://console.bluemix.net/catalog/services/dashdb)
 
-Watch the `Getting Started on IBM Cloud` video to add the IBM Analytics for Apache Spark service to your IBM Cloud account.
+Watch the [Getting Started on IBM Cloud](https://developer.ibm.com/clouddataservices/docs/spark/get-started/get-started-in-bluemix/) video to add the IBM Analytics for Apache Spark service to your IBM Cloud account.
 You can [download the Scala notebook](animaldb-scala-load-to-dashdb.ipynb) referenced in this tutorial or create your own notebook by 
 cutting/pasting the code into a new notebook.
 

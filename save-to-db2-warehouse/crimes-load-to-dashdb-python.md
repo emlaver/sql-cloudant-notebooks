@@ -16,7 +16,7 @@ These are the services required in your IBM Bluemix account:
 1. [Apache Spark](https://console.bluemix.net/catalog/services/apache-spark)
 2. [Db2 Warehouse on Cloud](https://console.bluemix.net/catalog/services/dashdb)
 
-Watch the `Getting Started on IBM Cloud` video to add the IBM Analytics for Apache Spark service to your IBM Cloud account.
+Watch the [Getting Started on IBM Cloud](https://developer.ibm.com/clouddataservices/docs/spark/get-started/get-started-in-bluemix/) video to add the IBM Analytics for Apache Spark service to your IBM Cloud account.
 
 Note: For `Db2 Warehouse on Cloud` service, you'll need to locate and copy the service credentials.
 These will be required for saving the Spark data into a Db2 Warehouse table.
